@@ -1,0 +1,16 @@
+# Core
+numpy
+pandas
+torch
+nltk
+scikit-learn
+transformers
+sentence-transformers
+rank-bm25
+pymilvus
+PyMuPDF
+streamlit
+
+# For testing
+unittest2
+
